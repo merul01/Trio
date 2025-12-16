@@ -4,10 +4,6 @@ Trio is a macOS HCI prototype that explores using **how you click**—your track
 
 The app mimics a Stony Brook–style NetID login with Duo, then layers Trio on top as an **invisible behavioral factor**. It’s not about full fledge security yet; it’s about **interaction design, feedback, and feasibility**.
 
-> ⚠️ **Prototype only.** No real SBU accounts, no network calls, and no persistent storage. All data lives in memory and resets when you quit the app.
-
----
-
 ## 🧱 Tech Stack
 
 - **Platform:** macOS app
